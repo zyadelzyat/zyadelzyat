@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zyad Waleed</h1>
-<h3 align="center">cyber security student intersted in malware analysis & reverse engineering , a junior dev ops engineer </h3>
+<h3 align="center">cyber security student intersted in malware analysis & reverse engineering , a junior devops engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadelzyat&label=Profile%20views&color=0e75b6&style=flat" alt="zyadelzyat" /> </p>
 
